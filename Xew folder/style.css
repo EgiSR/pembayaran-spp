@@ -1,0 +1,204 @@
+body {
+    height: 800px;
+    width: 2000px;
+}
+
+.logo {
+    top: 70px;
+    left: 86px;
+    color: black;
+    height: auto;
+    position: absolute;
+    font-size: 27px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Gilroy;
+    font-weight: 700;
+    line-height: 22px;
+    font-stretch: normal;
+}
+
+.espepe {
+    top: 175px;
+    left: 114px;
+    color: rgba(0, 0, 0, 1);
+    width: 423px;
+    height: auto;
+    position: absolute;
+    font-size: 96px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Gilroy;
+    font-weight: 600;
+    line-height: 90px;
+    font-stretch: normal;
+}
+
+.espepe2 {
+    top: 551px;
+    left: 114px;
+    color: rgba(188, 190, 192, 1);
+    width: 350px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Gilroy;
+    font-weight: 600;
+    line-height: 22px;
+    font-stretch: normal;
+}
+
+.button-login {
+    top: 60px;
+    left: 1062px;
+    width: 172px;
+    height: 80px;
+    position: absolute;
+    border-color: transparent;
+    border-radius: 20px;
+}
+
+.button-getstarted {
+    top: 640px;
+    left: 106px;
+    width: 67px;
+    height: 2px;
+    position: absolute;
+    border-color: transparent;
+}
+
+.getstarted {
+    top: 28px;
+    left: 42px;
+    color: white;
+    font-weight: 700;
+    line-height: 22px;
+    position: absolute;
+    font-size: 18px;
+    font-style: bold;
+    font-family: Gilroy;
+}
+
+.account {
+    top: 29px;
+    left: 58px;
+    color: #5956E9;
+    position: absolute;
+    font-size: 18px;
+    font-style: bold;
+    font-family: Gilroy;
+
+}
+
+.circle {
+    width: 100%;
+    height: 768px;
+    display : flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+
+}
+
+.ellipse55 {
+    top: 586px;
+    left: 737px;
+    width: 29px;
+    height: 29px;
+    position: absolute;
+    border-color: transparent;
+}
+
+.ellipse58 {
+    top: 176px;
+    left: 691px;
+    width: 124px;
+    height: 124px;
+    position: absolute;
+    border-color: transparent;
+}
+
+.ellipse54 {
+    top: 674px;
+    left: 866px;
+    width: 143px;
+    height: 143px;
+    position: absolute;
+    border-color: transparent;
+}
+
+.ellipse53 {
+    top: -110px;
+    left: 842px;
+    width: 500px;
+    height: 964px;
+    position: absolute;
+    border-color: transparent;
+}
+
+.ellipse59 {
+    top: 478px;
+    left: 1132px;
+    width: 69px;
+    height: 69px;
+    position: absolute;
+    border-color: transparent;
+}
+
+.ellipse56 {
+    top: 418px;
+    left: 58px;
+    width: 51px;
+    height: 51px;
+    position: absolute;
+    border-color: transparent;
+}
+
+.laptop {
+    top: 157px;
+    left: 661px;
+    width: 666px;
+    height: 491px;
+    display: flex;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+}
+
+.mainpic31 {
+    width: 631px;
+    height: 491px;
+    position: absolute;
+    border-color: transparent;
+}
+
+.mainpic11 {
+    top: 298px;
+    left: 37px;
+    width: 179px;
+    height: 108px;
+    position: absolute;
+    border-color: transparent;
+}
+
+.mainpic21 {
+    top: 15px;
+    left: 348px;
+    width: 318px;
+    height: 277px;
+    position: absolute;
+    border-color: transparent;
+}
